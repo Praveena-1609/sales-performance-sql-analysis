@@ -1,0 +1,26 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,65000
+2,Headphones,Electronics,2500
+3,Smartphone,Electronics,30000
+4,Tablet,Electronics,20000
+5,Monitor,Electronics,15000
+6,Keyboard,Electronics,1200
+7,Mouse,Electronics,800
+8,T-Shirt,Clothing,900
+9,Jeans,Clothing,2500
+10,Jacket,Clothing,3500
+11,Shoes,Clothing,3000
+12,Mixer,Home Appliances,4000
+13,Microwave,Home Appliances,10000
+14,Refrigerator,Home Appliances,25000
+15,Washing Machine,Home Appliances,18000
+16,Backpack,Accessories,1500
+17,Watch,Accessories,2200
+18,Sunglasses,Accessories,1200
+19,Wallet,Accessories,800
+20,Earbuds,Electronics,3000
+21,Smartwatch,Electronics,5000
+22,Fan,Home Appliances,2500
+23,Iron Box,Home Appliances,1800
+24,Cap,Accessories,500
+25,Belt,Accessories,700
